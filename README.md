@@ -4,9 +4,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
