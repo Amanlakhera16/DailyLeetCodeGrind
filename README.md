@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/1672-richest-customer-wealth) |
 ## Matrix
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
