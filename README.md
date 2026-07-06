@@ -23,5 +23,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0125-valid-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/1108-defanging-an-ip-address) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
