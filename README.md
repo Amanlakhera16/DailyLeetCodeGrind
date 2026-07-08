@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0125-valid-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
