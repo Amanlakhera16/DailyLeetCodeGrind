@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/1672-richest-customer-wealth) |
 ## Matrix
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Amanlakhera16/DailyLeetCodeGrind/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
